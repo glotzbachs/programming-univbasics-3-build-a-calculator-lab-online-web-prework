@@ -29,5 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  math.sqrt(num)
+  square=math.sqrt(num)
+  puts square
+  square
 end
