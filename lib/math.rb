@@ -30,6 +30,5 @@ end
 
 def square_root(num)
   square=Math.sqrt(num)
-  puts square
   square
 end
